@@ -1012,7 +1012,7 @@
 		(embedded_fonts no)
 		(model "/home/adriel/Documents/KiCad/TFT Display 1.28 Inch Circular/1.28 TFT GC9A01 Display.STEP"
 			(offset
-				(xyz 25.15 -7.5 4.5)
+				(xyz 25.15 -7.5 4)
 			)
 			(scale
 				(xyz 1 1 1)
