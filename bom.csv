@@ -1,21 +1,16 @@
 Component,Value,Quantity,Designator,Part Number,Supplier,Price (USD),Notes
-**MICROCONTROLLER & MAIN COMPONENTS**
+MICROCONTROLLER & MAIN COMPONENTS
 Xiao ESP32-C3,ESP32-C3,1,U1,Seeed XIAO ESP32C3,AliExpress,4.62,WiFi + Bluetooth + BLE 5.0 RISC-V
 CO2 Sensor,SCD40-D-R2,1,U2,SCD40-D-R2,LCSC,—,I2C interface
 Circular TFT Display,1.28" GC9A01 240x240,1,U3,GC9A01 Driver,AliExpress,2.42,SPI interface
-**POWER MANAGEMENT**
+POWER MANAGEMENT
 LiPo Battery,3.7V 1000mAh Polymer,1,BAT1,503450 or 603040,AliExpress,3.34,JST PH2.0 connector
 Power Switch,Slide/Toggle Switch,1,SW1,—,Local/AliExpress,0.50,On/Off switch for battery line
-**RESISTORS (0603)**
+RESISTORS (0603)
 Pull-up/Pull-down Resistors,10kΩ,2,R1-R2,0603,LCSC,—,I2C pull-ups for SCD40
-**CAPACITORS**
-Decoupling Capacitor,1µF,4,C1-C4,0603,LCSC,—,Power supply smoothing
-Decoupling Capacitor,100nF,2,C5-C6,0603,LCSC,—,High-frequency noise filtering
-**CONNECTORS & MECHANICAL**
-JST PH2.0 Connector,2-pin,1,J1,—,AliExpress,0.30,Battery connector
-Micro USB Port,Micro-B,1,J2,—,LCSC,0.50,Programming/charging (optional)
+MECHANICAL
 M2.5 Screws,10mm length,8,—,—,AliExpress,1.60,PCB to case mounting
-**PCB FABRICATION**
+PCB FABRICATION
 PCB,2-layer FR4,5,—,—,JLCPCB,~20.00,Green solder mask HASL finish
-**PCBA ASSEMBLY (Optional)**
-PCBA Assembly,SMT Assembly,1,—,—,JLCPCB,~40.00,Professional soldering service
+PCBA ASSEMBLY (Optional)
+PCBA Assembly,SMT Assembly,1,—,—,PCBWAY,~40.00,Professional soldering service

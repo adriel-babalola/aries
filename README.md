@@ -76,15 +76,12 @@ The enclosure consists of three 3D-printed parts:
 | LiPo Battery | 3.7V 1000mAh | 1 | 503450/603040 | AliExpress | $3.34 |
 | **Passive Components** |
 | Resistor | 10kΩ (0603) | 2 | — | LCSC | — |
-| Capacitor | 1µF (0603) | 4 | — | LCSC | — |
-| Capacitor | 100nF (0603) | 2 | — | LCSC | — |
 | **Mechanical** |
 | Power Switch | Slide/Toggle | 1 | — | Local | $0.50 |
 | M2.5 Screws | 10mm | 8 | — | AliExpress | $1.60 |
-| JST Connector | PH2.0 2-pin | 1 | — | AliExpress | $0.30 |
 | **Manufacturing** |
-| PCB (5×) | 2-layer FR4 | — | — | JLCPCB | ~$20 |
-| PCBA Assembly | SMT | — | — | JLCPCB | ~$40 |
+| PCB (5×) | 2-layer FR4 | — | — | PCBWAY | ~$20 |
+| PCBA Assembly | SMT | — | — | PCBWAY | ~$40 |
 
 **Total Component Cost**: ~$13–16 USD (parts only)  
 **Total with PCB & Assembly (5 boards)**: ~$75 USD  
