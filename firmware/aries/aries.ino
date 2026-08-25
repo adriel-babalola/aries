@@ -2,7 +2,6 @@
 #include <SensirionI2cScd4x.h>
 #include <Wire.h>
 
-
 #ifdef NO_ERROR
 #undef NO_ERROR
 #endif
