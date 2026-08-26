@@ -64,30 +64,17 @@ The enclosure consists of three 3D-printed parts:
 
 ## Bill of Materials
 
-| Component | Value | Qty | Part # | Supplier | Price |
-|-----------|-------|-----|--------|----------|-------|
-| **Microcontroller** |
-| Xiao ESP32-C3 | — | 1 | Seeed XIAO ESP32C3 | AliExpress | $4.62 |
-| **Sensors** |
-| SCD40 CO₂ Sensor | SCD40-D-R2 | 1 | C2684433 | LCSC | — |
-| **Display** |
-| Circular TFT Display | 1.28" GC9A01 | 1 | — | AliExpress | $2.42 |
-| **Power** |
-| LiPo Battery | 3.7V 1000mAh | 1 | 503450/603040 | AliExpress | $3.34 |
-| **Passive Components** |
-| Resistor | 10kΩ (0603) | 2 | — | LCSC | — |
-| **Mechanical** |
-| Power Switch | Slide/Toggle | 1 | — | Local | $0.50 |
-| M2.5 Screws | 10mm | 8 | — | AliExpress | $1.60 |
-| **Manufacturing** |
-| PCB (5×) | 2-layer FR4 | — | — | PCBWAY | ~$20 |
-| PCBA Assembly | SMT | — | — | PCBWAY | ~$40 |
-
-**Total Component Cost**: ~$13–16 USD (parts only)  
-**Total with PCB & Assembly (5 boards)**: ~$75 USD  
-**Cost per unit**: ~$15 USD
-
-
+| Component | Value | Qty | Supplier | Original Price | Final Price |
+|-----------|-------|-----|----------|-----------------|-------------|
+| PCB + PCBA (SCD 40) | 5 PCB + 2 PCBA | 7 | [PCBWay](https://www.pcbway.com/) | $85.63 | $85.63 |
+| Xiao ESP32-C3 | — | 1 | [Seeed Studio Store](https://www.aliexpress.com/item/1005007039705247.html?spm=a2g0o.cart.0.0.3c3838da85i9NG&mp=1) | $10.77 | $4.63 |
+| LiPo Battery | 3.7V 1000mAh | 1 | [Rainpro Store](https://www.aliexpress.com/item/1005005244012524.html?spm=a2g0o.cart.0.0.3c3838da85i9NG&mp=1) | $4.40 | $3.34 |
+| Power Switch | SS12D06G5 3-Pin | 1 | [DQLZV Store](https://www.aliexpress.com/item/1005006258365679.html?spm=a2g0o.cart.0.0.3c3838da85i9NG&mp=1) | $1.42 | $1.39 |
+| Circular TFT Display | 1.28" GC9A01 | 1 | [Shenzhen Chip Store](http://aliexpress.com/item/1005005925857858.html?spm=a2g0o.cart.0.0.3c3838da85i9NG&mp=1&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22pdpBusinessMode%22%3A%22retail%22%7D%7D) | $3.92 | $2.42 |
+| M2.5 Screws | 10mm x50pc | 1 | [ScrewMax Supply Store](https://www.aliexpress.com/item/1005012931823427.html?spm=a2g0o.cart.0.0.3c3838da85i9NG&mp=1) | $1.63 | $1.60 |
+| Soldering Wire | 50g 0.6mm | 1 | [JCD Official Store](https://www.aliexpress.com/item/1005006030104628.html?spm=a2g0o.cart.0.0.3c3838da85i9NG&mp=1) | $2.37 | $2.30 |
+| AliExpress Shipping | — | — | [AliExpress](https://www.aliexpress.com/) | — | $8.69 |
+| **TOTAL COST** | | | | | **$120.00** |
 
 ### Display Guide
 
@@ -104,16 +91,3 @@ This project draws from several open-source projects and guides:
 - **@notaroomba** - GitHub README structure and best practices
 - **@GarageTinkering** - 3D CAD enclosure design tutorial ([YouTube](https://www.youtube.com/@GarageTinkering))
 - **The Solar Universe Blog** - GC9A01 display integration guide
-
-## Project Status
-
-✅ **PCB Design**: Complete  
-✅ **Firmware**: Functional (CO₂ display)  
-✅ **3D Models**: Complete  
-🔄 **Testing**: In progress  
-
-## License
-
-This project is open-source. Feel free to build, modify, and share!
-
----

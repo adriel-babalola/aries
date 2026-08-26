@@ -1,16 +1,10 @@
-Component,Value,Quantity,Designator,Part Number,Supplier,Price (USD),Notes
-MICROCONTROLLER & MAIN COMPONENTS
-Xiao ESP32-C3,ESP32-C3,1,U1,Seeed XIAO ESP32C3,AliExpress,4.62,WiFi + Bluetooth + BLE 5.0 RISC-V
-CO2 Sensor,SCD40-D-R2,1,U2,SCD40-D-R2,LCSC,—,I2C interface
-Circular TFT Display,1.28" GC9A01 240x240,1,U3,GC9A01 Driver,AliExpress,2.42,SPI interface
-POWER MANAGEMENT
-LiPo Battery,3.7V 1000mAh Polymer,1,BAT1,503450 or 603040,AliExpress,3.34,JST PH2.0 connector
-Power Switch,Slide/Toggle Switch,1,SW1,—,Local/AliExpress,0.50,On/Off switch for battery line
-RESISTORS (0603)
-Pull-up/Pull-down Resistors,10kΩ,2,R1-R2,0603,LCSC,—,I2C pull-ups for SCD40
-MECHANICAL
-M2.5 Screws,10mm length,8,—,—,AliExpress,1.60,PCB to case mounting
-PCB FABRICATION
-PCB,2-layer FR4,5,—,—,JLCPCB,~20.00,Green solder mask HASL finish
-PCBA ASSEMBLY (Optional)
-PCBA Assembly,SMT Assembly,1,—,—,PCBWAY,~40.00,Professional soldering service
+Component,Value,Qty,Supplier,Original Price,Final Price
+"PCB + PCBA (SCD 40)","5 PCB + 2 PCBA",7,"https://www.pcbway.com/",85.63,85.63
+"Xiao ESP32-C3","—",1,"https://www.aliexpress.com/item/1005007039705247.html?spm=a2g0o.cart.0.0.3c3838da85i9NG&mp=1",10.77,4.63
+"LiPo Battery","3.7V 1000mAh",1,"https://www.aliexpress.com/item/1005005244012524.html?spm=a2g0o.cart.0.0.3c3838da85i9NG&mp=1",4.40,3.34
+"Power Switch","SS12D06G5 3-Pin",1,"https://www.aliexpress.com/item/1005006258365679.html?spm=a2g0o.cart.0.0.3c3838da85i9NG&mp=1",1.42,1.39
+"Circular TFT Display","1.28"" GC9A01",1,"http://aliexpress.com/item/1005005925857858.html?spm=a2g0o.cart.0.0.3c3838da85i9NG&mp=1&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22pdpBusinessMode%22%3A%22retail%22%7D%7D",3.92,2.42
+"M2.5 Screws","10mm x50pc",1,"https://www.aliexpress.com/item/1005012931823427.html?spm=a2g0o.cart.0.0.3c3838da85i9NG&mp=1",1.63,1.60
+"Soldering Wire","50g 0.6mm",1,"https://www.aliexpress.com/item/1005006030104628.html?spm=a2g0o.cart.0.0.3c3838da85i9NG&mp=1",2.37,2.30
+"AliExpress Shipping","—","—","https://www.aliexpress.com/","—",8.69
+"TOTAL COST","","","","",120.00
