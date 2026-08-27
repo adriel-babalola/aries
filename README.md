@@ -91,3 +91,5 @@ This project draws from several open-source projects and guides:
 - **@notaroomba** - GitHub README structure and best practices
 - **@GarageTinkering** - 3D CAD enclosure design tutorial ([YouTube](https://www.youtube.com/@GarageTinkering))
 - **The Solar Universe Blog** - GC9A01 display integration guide
+
+and may the Odds ever be in your favor
