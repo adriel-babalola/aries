@@ -66,7 +66,7 @@ The enclosure consists of three 3D-printed parts:
 
 | Component | Value | Qty | Supplier | Original Price | Final Price |
 |-----------|-------|-----|----------|-----------------|-------------|
-| PCB + PCBA (SCD 40) | 5 PCB + 2 PCBA | 7 | [PCBWay](https://www.pcbway.com/) | $85.63 | $85.63 |
+| PCB + PCBA (SCD 40) | 5 PCB + 2 PCBA | 7 | [PCBWay](https://www.pcbway.com/) | $72.48 | $72.48 |
 | Xiao ESP32-C3 | — | 1 | [Seeed Studio Store](https://www.aliexpress.com/item/1005007039705247.html?spm=a2g0o.cart.0.0.3c3838da85i9NG&mp=1) | $10.77 | $4.63 |
 | LiPo Battery | 3.7V 1000mAh | 1 | [Rainpro Store](https://www.aliexpress.com/item/1005005244012524.html?spm=a2g0o.cart.0.0.3c3838da85i9NG&mp=1) | $4.40 | $3.34 |
 | Power Switch | SS12D06G5 3-Pin | 1 | [DQLZV Store](https://www.aliexpress.com/item/1005006258365679.html?spm=a2g0o.cart.0.0.3c3838da85i9NG&mp=1) | $1.42 | $1.39 |
@@ -74,7 +74,7 @@ The enclosure consists of three 3D-printed parts:
 | M2.5 Screws | 10mm x50pc | 1 | [ScrewMax Supply Store](https://www.aliexpress.com/item/1005012931823427.html?spm=a2g0o.cart.0.0.3c3838da85i9NG&mp=1) | $1.63 | $1.60 |
 | Soldering Wire | 50g 0.6mm | 1 | [JCD Official Store](https://www.aliexpress.com/item/1005006030104628.html?spm=a2g0o.cart.0.0.3c3838da85i9NG&mp=1) | $2.37 | $2.30 |
 | AliExpress Shipping | — | — | [AliExpress](https://www.aliexpress.com/) | — | $8.69 |
-| **TOTAL COST** | | | | | **$120.00** |
+| **TOTAL COST** | | | | | **$106.50** |
 
 ### Display Guide
 
